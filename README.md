@@ -6,4 +6,5 @@ words and places them into the interface.
 
 Tech Used:
 HTML and CSS - Front-end interface
+
 MySql - Database for content creation
